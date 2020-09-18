@@ -2,7 +2,7 @@
 
 Todos os scripts para implantção do Hyper-V Réplica no Windows Server 2019 em Workgroup.
 
-Contéudo:
+Conteúdo:
 
 Script Hyper-V Réplica em Workgroup -  Alterar a chave de registro.ps1
 
