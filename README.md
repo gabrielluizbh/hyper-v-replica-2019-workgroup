@@ -13,3 +13,5 @@ Script Hyper-V Réplica em Workgroup -  Liberação das portas do Firewall para 
 Script Hyper-V Réplica em Workgroup - Criação dos certificados SSL.ps1
 
 Planilha com o funcionamento do Hyper-V Réplica.xlsx
+
+Créditos Gabriel Luiz - www.gabrielluiz.com
